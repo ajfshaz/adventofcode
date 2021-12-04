@@ -19,11 +19,9 @@ def PartTwo():
         aNumOne = numbers[i]
         aNumTwo = numbers[i+1]
         aNumThree = numbers[i+2]
-
         bNumOne = numbers[i+1]
         bNumTwo = numbers[i+2]
         bNumThree = numbers[i+3]
-        
         alphaTuple = aNumOne + aNumTwo + aNumThree
         betaTuple = bNumOne + bNumTwo + bNumThree
 
